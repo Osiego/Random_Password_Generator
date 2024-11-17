@@ -10,7 +10,11 @@ Random Password Generator
 
 * Instructions:
 	- copy file to desktop
-	-open terminal or command prompt
-	-“cd /desktop”
-	-“python3 OSieGO_Password_Generator.py”
-	-Follow instructions in the GUI
+	
+ 	-open terminal or command prompt
+
+  	-“cd /desktop”
+
+  	-“python3 OSieGO_Password_Generator.py”
+
+  	-Follow instructions in the GUI
